@@ -1,4 +1,4 @@
-# Social Media Native Headers
+## Social Media Native Headers
 - https://rusocial.io/purchase.html
 
 - In honor of 2 years of RUSocial since i'll be updating versions shortly (since first of month) we are running a promo
