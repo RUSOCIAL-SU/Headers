@@ -3,5 +3,5 @@
 - Discord: rusocial (794009760755351593)
 - Discord Server: https://discord.gg/rusocial
 
-We are doing a giveaway in the discord for new customers only (Ends: in 5 days):
+We are doing a giveaway in the discord for new customers (Ends: in 3 days):
 - Lifetime Snapchat API Or Bots Price 11k$ (TOS APPLIES)
